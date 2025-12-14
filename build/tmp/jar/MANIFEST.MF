@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.matrixCalculator.Main
+Module-Main-Class: com.matrixCalculator
+
